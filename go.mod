@@ -1,5 +1,7 @@
 module github.com/buildkite/buildkite-agent-metrics
 
+go 1.14
+
 require (
 	github.com/DataDog/datadog-go v0.0.0-20180822151419-281ae9f2d895
 	github.com/aws/aws-lambda-go v1.6.0
